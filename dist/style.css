@@ -64,7 +64,7 @@ strong {
 }
 
 .overlay__inner {
-  max-width: 36rem;
+  max-width: 42rem;
 }
 
 .overlay__title {
@@ -190,20 +190,32 @@ a {
 
 @media only screen and (max-width: 600px) {
   .overlay {
-    padding: 1.5rem;
+    padding: 1rem;
+    margin-top: 0rem;
   }
-
+  .overlay__title {
+    font-size: 1.25rem;
+    line-height: 1.42rem;
+    margin-top: 1rem;
+    margin-bottom: 0.42rem;
+  }
+  .overlay__description {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+  }
   .overlay__btns {
     flex-wrap: wrap;
   }
 
   .overlay__btn {
-    width: 100%;
+    width: 70%;
     font-size: 0.75rem;
-    margin-right: 0;
+    margin-left: 3rem;
   }
 
-  .overlay__btn:first-child {
+  .overlay__btn {
     margin-bottom: 1rem;
   }
 }

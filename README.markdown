@@ -1,6 +1,6 @@
 # WRLD.Design Landing - Based on pixi.js + Frosty Elements ❄️
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/wrldtech/pen/WNXWrwZ](https://codepen.io/wrldtech/pen/WNXWrwZ).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/wrldtech/pen/NWXKdeJ](https://codepen.io/wrldtech/pen/NWXKdeJ).
 
 This is the final code example for my upcoming tutorial on creating a generative UI with a super zen orbs animation (built with pixi.js) and a nice frosty UI. 
 

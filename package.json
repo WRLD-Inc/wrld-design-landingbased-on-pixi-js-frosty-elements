@@ -1,9 +1,9 @@
 {
   "name": "wrld-design-landingbased-on-pixi-js-frosty-elements",
-  "version": "2022.2.1-12.26.7",
+  "version": "2022.2.5-8.51.16",
   "private": false,
   "license": "MIT",
-  "homepage": "https://codepen.io/wrldtech/pen/WNXWrwZ",
+  "homepage": "https://codepen.io/wrldtech/pen/NWXKdeJ",
   "scripts": {
     "build": "gulp -f ./build/gulpfile.js --cwd ./ --continue",
     "serve": "gulp serve -f ./build/gulpfile.js --cwd ./ --continue",
